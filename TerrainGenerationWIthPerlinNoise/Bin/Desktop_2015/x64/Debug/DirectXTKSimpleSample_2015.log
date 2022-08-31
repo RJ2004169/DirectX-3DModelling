@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Game Dev\Game Dev Practicals\Semester 2\CMP-505\Coursework\backup\tertut01\tertut01\Engine\Game.cpp(164,94): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Game Dev\Game Dev Practicals\Semester 2\CMP-505\Coursework\backup\tertut01\tertut01\Engine\Game.cpp(170,94): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Game Dev\Game Dev Practicals\Semester 2\CMP-505\Coursework\backup\tertut01\tertut01\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe

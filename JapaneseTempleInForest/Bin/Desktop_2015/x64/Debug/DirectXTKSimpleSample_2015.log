@@ -1,0 +1,11 @@
+﻿  Game.cpp
+C:\Game Dev Practicals\CMP-502\Project Scene\Engine\Game.cpp(131,52): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-502\Project Scene\Engine\Game.cpp(138,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  ParticleEmitter.cpp
+C:\Game Dev Practicals\CMP-502\Project Scene\Engine\ParticleEmitter.cpp(30,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-502\Project Scene\Engine\ParticleEmitter.cpp(41,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-502\Project Scene\Engine\ParticleEmitter.cpp(45,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Game Dev Practicals\CMP-502\Project Scene\Engine\ParticleEmitter.cpp(46,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Game Dev Practicals\CMP-502\Project Scene\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
